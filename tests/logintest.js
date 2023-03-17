@@ -1,4 +1,4 @@
-var chai = require('chai');  
+var chai   = require('chai');  
 var assert = chai.assert;
 
 describe('Test cases for client side login form validation ', () => {
